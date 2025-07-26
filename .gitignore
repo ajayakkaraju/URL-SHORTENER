@@ -8,3 +8,4 @@ venv/
 .idea/
 .pytest_cache/
 Readme.md
+.gitignore
