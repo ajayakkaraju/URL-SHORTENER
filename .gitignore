@@ -1,12 +1,36 @@
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
-*.db
-.env
-venv/
+*.pyd
+*.pyc
+
+# VS Code
 .vscode/
+
+# PyCharm
 .idea/
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test and coverage
 .pytest_cache/
-Readme.md
-.gitignore
+.coverage
+htmlcov/
+
+# Logs
 *.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Others
+*.sqlite3
